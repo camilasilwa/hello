@@ -1,12 +1,12 @@
 # Olá...Galera! 👋🏻 
 
-* 👩🏽 Meu nome é **Camila da Silva**
+* 👩🏽 Muito Prazer! 🫱🏼‍🫲🏼 Meu nome é **Camila da Silva**
 
-* 🌱 Futura **desenvolvedora front end** e autodidata que ama aprender sobre tecnologia, e obstinada por evolução constante
+* 🌱 Futura **desenvolvedora front end** e autodidata que ama aprender sobre tecnologia, e obstinada por evolução constante.
 
 * 🤔 Também tenho interese em cursar **Análise e desenvolvimento de sistemas** e **Inteligencia Artificial**
 
-* 🎯 ```Meu objetivo principal aqui é apresentar meus trabalhos e habilidades por meio de repositórios nos quais eu tenho interesse de contribuir, e quem sabe até mesmo conseguir minha primeira oportunidade de emprego na área que eu tanto  almejo.```
+* 🎯 ```Meu objetivo principal aqui é apresentar e registrar meus projetos e habilidades por meio de repositórios nos quais eu tenho interesse de contribuir; e também adiquirir mais experiência aqui na comunidade.```
 
 ## 🔗 Você pode me encontrar Também...
 
