@@ -6,7 +6,7 @@
 
 * 🤔 Também tenho interese em cursar **Análise e desenvolvimento de sistemas** e **Inteligencia Artificial**
 
-* 🎯 ```Meu objetivo principal aqui é apresentar e registrar meus projetos e habilidades por meio de repositórios nos quais eu tenho interesse de contribuir; e também adiquirir mais experiência aqui na comunidade.```
+* 🎯 ```Meu objetivo principal aqui é apresentar e registrar meus projetos e habilidades por meio de repositórios nos quais eu tenho interesse de contribuir; e também adiquirir novas experiência aqui na comunidade.```
 
 ## 🔗 Você pode me encontrar Também...
 
